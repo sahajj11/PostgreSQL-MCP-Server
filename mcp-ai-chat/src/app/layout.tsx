@@ -4,7 +4,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "PostgreSQL MCP AI Chat",
-  description: "An AI-powered PostgreSQL database assistant. Explore the local chat preview.",
+  description: "Explore PostgreSQL tables, schemas, and data with an AI-powered database assistant.",
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
